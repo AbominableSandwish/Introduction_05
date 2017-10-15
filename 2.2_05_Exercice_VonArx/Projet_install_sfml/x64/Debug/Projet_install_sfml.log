@@ -1,0 +1,8 @@
+﻿  Shapes.cpp
+c:\users\dylan\desktop\visual\2.2_05_exercice_vonarx\projet_install_sfml\shapes.cpp(13): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\dylan\desktop\visual\2.2_05_exercice_vonarx\projet_install_sfml\shapes.cpp(14): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\dylan\desktop\visual\2.2_05_exercice_vonarx\projet_install_sfml\shapes.cpp(100): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\dylan\desktop\visual\2.2_05_exercice_vonarx\projet_install_sfml\shapes.cpp(107): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\dylan\desktop\visual\2.2_05_exercice_vonarx\projet_install_sfml\shapes.cpp(25): warning C4715: 'Rectangle::isColliding' : les chemins de contrôle ne retournent pas tous une valeur
+c:\users\dylan\desktop\visual\2.2_05_exercice_vonarx\projet_install_sfml\shapes.cpp(117): warning C4715: 'Circle::isColliding' : les chemins de contrôle ne retournent pas tous une valeur
+  Projet_install_sfml.vcxproj -> C:\Users\Dylan\Desktop\Visual\2.2_05_Exercice_VonArx\x64\Debug\Projet_install_sfml.exe
